@@ -1,3 +1,1 @@
 # Ethers Simple Storage
-
-Hi!
